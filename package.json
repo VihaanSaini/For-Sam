@@ -1,0 +1,8 @@
+{
+  "name": "matrix-rain",
+  "author": "Mr. Search Head",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

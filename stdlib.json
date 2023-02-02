@@ -1,0 +1,5 @@
+{
+  "name": "searchhead/matrix-rain",
+  "timeout": 10000,
+  "connector": false
+}
