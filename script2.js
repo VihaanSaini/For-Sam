@@ -8,8 +8,8 @@ var BRIGHTNESSTABLERGB = [];
 var HISTORY = 25;
 var GRIDWIDTH = 10;
 var MESSAGESTEP = 30;
-var MESSAGE = "4:15"
-var MESSAGE2 = " "
+var MESSAGE = " "
+var MESSAGE2 = "4:15"
 var MESSAGEX = 2;
 var MESSAGEY = 2;
 
